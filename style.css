@@ -1,0 +1,41 @@
+.offlight{
+    
+    width: 150px;
+    display: none;
+    margin-left: auto;
+    margin-right:auto;
+   
+   
+}
+   
+.onlight{
+    width: 600px;
+   margin-left: auto;
+   margin-right:auto;
+}
+
+.lightbulb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#p1, .p1 {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+
+    
+}
+.mouse-event{
+    width: 100%;
+    height: 100px;
+    background: #24bce2;
+}
+.scr1{
+    height: 200px;
+    width: 200px;
+    overflow: scroll;
+    border: 1px solid blueviolet;
+    
+
+}
